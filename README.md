@@ -53,7 +53,8 @@ git clone https://github.com/Muhammad-Arshiyan/todo-app.git
 
 ## 📸 Screenshot
 
-Add a screenshot of your project here.
+<img width="1364" height="633" alt="todo-app" src="https://github.com/user-attachments/assets/feab5004-8d80-4adf-aaae-95c6e30beafd" />
+
 
 Example:
 
